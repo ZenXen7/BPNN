@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackPropagationNeuralNetwork\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\OuputN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackPropagationNeuralNetwork\\OuputN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackPropagationNeuralNetwork\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OuputN.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\OuputN.cs",
+              "RelativeDocumentMoniker": "BackPropagationNeuralNetwork\\OuputN.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\OuputN.cs",
+              "RelativeToolTip": "BackPropagationNeuralNetwork\\OuputN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:01:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\Program.cs",
+              "RelativeDocumentMoniker": "BackPropagationNeuralNetwork\\Program.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\Program.cs",
+              "RelativeToolTip": "BackPropagationNeuralNetwork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:01:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\Form1.cs",
+              "RelativeDocumentMoniker": "BackPropagationNeuralNetwork\\Form1.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\Backpropagation-main\\Backpropagation-main\\BackPropagationNeuralNetwork\\Form1.cs",
+              "RelativeToolTip": "BackPropagationNeuralNetwork\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:01:02.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\bin\Debug\net8.0-windows\BackPropagationNeuralNetwork.exe
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\bin\Debug\net8.0-windows\BackPropagationNeuralNetwork.deps.json
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\bin\Debug\net8.0-windows\BackPropagationNeuralNetwork.runtimeconfig.json
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\bin\Debug\net8.0-windows\BackPropagationNeuralNetwork.dll
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\bin\Debug\net8.0-windows\BackPropagationNeuralNetwork.pdb
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.Form1.resources
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.csproj.GenerateResource.cache
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.AssemblyInfo.cs
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.dll
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\refint\BackPropagationNeuralNetwork.dll
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.pdb
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\BackPropagationNeuralNetwork.genruntimeconfig.cache
+C:\Users\Karl Christian Ajero\Downloads\Backpropagation-main\Backpropagation-main\BackPropagationNeuralNetwork\obj\Debug\net8.0-windows\ref\BackPropagationNeuralNetwork.dll
